@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+    color: blue;
+}
+#intro-text{
+    font-size: 30px;
+    color: red;
+}
+div img{
+    height: 200px;
+    width: 200px;
+    float: right;
+    border-radius: 50%;
+}

@@ -1,0 +1,78 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	margin: 0px;
+      padding: 0px;
+      background-color:#E9EBEE;
+      }
+header {
+	margin: 0px;
+      padding: 0px;
+	background-color: #415E9B;
+	height: 82px;
+	color: white;
+}
+ #name {
+ 	width: 50%;
+ 	float:left;
+    font-size: 20px;
+	padding-top: : 20px;
+	padding-bottom: 20px;
+	margin: 20px;
+}
+ul{
+	margin: 0px;
+	padding:5px;
+   font-size: 10px;
+}
+ .login{
+ 	
+       width:20%;
+         float:left;
+
+
+ }
+
+ .password{
+ 	 	width:20%;
+ 	float: left;
+
+ }
+
+.login-buttom{
+	padding-right:240px;
+	
+	width: 20px;
+	float:left;
+   
+	
+}
+.clearfix{
+	clear: both;
+}
+.facebook {
+	width: 50%;
+ 	float:left;
+    font-size: 20px;
+	padding-top: : 20px;
+	padding-bottom: 20px;
+	margin: 20px;
+
+}
+.facebook{
+font-size: 32px;
+}
+ul{
+font-size: 20px;
+padding-bottom: 5px;
+}
+
+.create{
+padding-right:240px;
+	float:center;
+
+}
+
